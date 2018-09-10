@@ -83,7 +83,4 @@
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^2.1.3" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.1.2" />
-    <plugin name="cordova-plugin-iroot" spec="^0.8.0">
-        <variable name="ENABLE_BUSYBOX_CHECK" value="true" />
-    </plugin>
 </widget>

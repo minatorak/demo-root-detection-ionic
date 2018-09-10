@@ -31,14 +31,6 @@ module.exports = [
     "clobbers": [
       "window.Keyboard"
     ]
-  },
-  {
-    "id": "cordova-plugin-iroot.IRoot",
-    "file": "plugins/cordova-plugin-iroot/www/iroot.js",
-    "pluginId": "cordova-plugin-iroot",
-    "clobbers": [
-      "IRoot"
-    ]
   }
 ];
 module.exports.metadata = 
@@ -48,8 +40,7 @@ module.exports.metadata =
   "cordova-plugin-statusbar": "2.4.2",
   "cordova-plugin-device": "2.0.2",
   "cordova-plugin-splashscreen": "5.0.2",
-  "cordova-plugin-ionic-keyboard": "2.1.2",
-  "cordova-plugin-iroot": "0.8.0"
+  "cordova-plugin-ionic-keyboard": "2.1.2"
 };
 // BOTTOM OF METADATA
 });
